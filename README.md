@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - 
 
   this project is initialized using _**Bun**_.
-  create a directory   mkdir project    after that open the folder in vs code using (code .) then in vs code terminal type bun create vite
+  create a directory-  ** mkdir project**    after that open the  project folder in vs code using (code .) then in vs code terminal type bun create vite
 
