@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - 
 
   this project is initialized using  _**Bun**_.
-  create a directory-  **mkdir** **Project**     after that open the  _Project_ folder in **Vs** **Code** using (code .) then in vs-code terminal type `bun create vite`
+  create a directory using **git** **cli** then type **mkdir** **Project**   to create a repository  after that open the  _Project_ folder in **Vs** **Code** using (code .) then in vs-code terminal type `bun create vite`
 
