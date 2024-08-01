@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 - 
 
-  this project is initialized using _**Bun**_.
-  create a directory-  ** mkdir project**    after that open the  project folder in vs code using (code .) then in vs code terminal type bun create vite
+  this project is initialized using  _**Bun**_.
+  create a directory-  **mkdir** **Project**    after that open the  _Project_ folder in vs code using (code .) then in vs-code terminal type bun create vite
 
